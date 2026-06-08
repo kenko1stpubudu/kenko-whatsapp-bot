@@ -514,15 +514,14 @@ FAQS = [
             "\U0001f4e7 Email: kenkofood.srilanka@gmail.com\n"
             "\U0001f4ac WhatsApp: This number!\n\n"
             "\U0001f4cd 27/12, Rosmead Place, Colombo 07\n\n"
-            "Our team is happy to help Monday \u2013 Saturday, 8AM \u2013 7PM. \U0001f60a"
+            "Our team is happy to help Every Day, 9AM – 8PM. \U0001f60a"
         )
     },
     {
         "keywords": HOURS_TRIGGERS,
         "reply": (
             "\U0001f550 *Kenko 1st Organic \u2014 Opening Hours*\n\n"
-            "Monday \u2013 Saturday: 8:00 AM \u2013 7:00 PM\n"
-            "Sunday: 9:00 AM \u2013 5:00 PM\n\n"
+            "Every Day: 9:00 AM \u2013 8:00 PM\n\n"
             "\U0001f4f1 Online orders accepted 24/7!\n"
             "Delivery within working hours. \U0001f69a"
         )
@@ -624,8 +623,7 @@ LOCATION_REPLY = (
     "27/12, Rosmead Place,\n"
     "Colombo 07\n\n"
     "\U0001f550 *Opening Hours:*\n"
-    "Monday \u2013 Saturday: 8:00 AM \u2013 7:00 PM\n"
-    "Sunday: 9:00 AM \u2013 5:00 PM\n\n"
+    "Every Day: 9:00 AM \u2013 8:00 PM\n\n"
     "You're welcome to visit us anytime! \U0001f33f"
 )
 
