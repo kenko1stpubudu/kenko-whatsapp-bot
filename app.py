@@ -178,11 +178,10 @@ DELIVERY_TRIGGERS = [
     # Singlish
     "deliver karanawada", "deliver karannada",
     "deliver karanawad", "deliver karanawa",
-    "yanawada", "yawanawada",
     "eka dawasata", "ekada wasata",
     "medata", "me dawase",
     "kohomada yawanne", "kohomada yanne",
-    "deliver",
+    "deliver karanawada", "deliver karannada",
     # Standard
     "delivery", "ship", "shipping", "courier",
 ]
