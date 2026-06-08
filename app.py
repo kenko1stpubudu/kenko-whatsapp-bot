@@ -499,7 +499,7 @@ FAQS = [
         "reply": (
             "\U0001f69a *Kenko 1st Organic \u2014 Delivery Info*\n\n"
             "\U0001f4cd *Colombo:*\n"
-            "\u2022 All products \u2014 Next day delivery\n\n"
+            "\u2022 All products \u2014 We will notify you as soon as your delivery is ready!\n\n"
             "\U0001f1f1\U0001f1f0 *Island Wide:*\n"
             "\u2022 Organic items, Herbal & Dry products \u2014 2 to 3 days\n"
             "\u2022 Vegetables & Fruits \u2014 Colombo only\n\n"
